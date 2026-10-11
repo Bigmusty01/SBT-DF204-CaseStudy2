@@ -1,0 +1,9 @@
+2026-10-11 08:05:26 UTC - Created assignment folder structure
+2026-10-11 08:15:13 UTC - Copied Chrome_History_Cryptocurrency_Lab.db from ~/Downloads to 01_original_evidence (read-only), hashed, made working copy
+2026-10-11 08:17:07 UTC - Ran query1_schema.sql and query2_counts.sql on working copy (read-only)
+2026-10-11 08:19:14 UTC - Converted WebKit timestamps (query3, query4); exported visits_timeline.csv
+2026-10-11 08:21:41 UTC - Decoded transitions (query5) and traced from_visit chains (query6)
+2026-10-11 08:22:33 UTC - Ran query7_decode.sql (qualifier flags per transition value)
+2026-10-11 08:25:14 UTC - Ran query8_posting.sql (visits 5-21, Craigslist log-in and posting workflow)
+2026-10-11 08:26:57 UTC - Ran query9_comms.sql and query10_download.sql (Gmail, email threads, Imgur, download)
+2026-10-11 08:28:50 UTC - Ran query11_payment.sql (blockchain explorers, Kraken, mempool.space, return to Gmail)
